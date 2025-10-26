@@ -142,7 +142,7 @@ In the Import Design window click the save option to save the Default.globals fi
 3. Adding Power Strings
    
 4. Special Route
-5. 
+
 Under Connect Global Net Connects, we create two pins, one for VDD and one for VSS connecting them to corresponding Global Nets as mentioned in Globals file / Power and Ground Nets.
 
 1. Select Power → Connect Global Nets.. to create “Pin” and “Connect to Global Net” as shown and use “Add to list”.
