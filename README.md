@@ -87,7 +87,7 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 • Delay Corners are formed by combining Library Sets with RC Corners.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a1b6606-9879-4273-9c14-a5871ee40a2e" />
+<img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/554bec31-6d1b-40d6-b751-4cb1ae09039e" />
 
 ### Fig.4 Add Delay corner Max_delay & Min_delay
 
